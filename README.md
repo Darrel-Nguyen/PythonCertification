@@ -7,12 +7,6 @@ Welcome to my GitHub repository tracking my progress in earning a Python certifi
 **Certification:** Python Programming Certification  
 **Objective:** Strengthen my Python skills and gain a certification
 
-## Repository Structure
-- **notebooks/** – Jupyter notebooks with exercises and explanations
-- **projects/** – Hands-on projects applying Python concepts
-- **scripts/** – Standalone Python scripts for various tasks
-- **notes/** – Key takeaways and summaries from lessons
-
 ## Progress
 | Module | Topic | Status |
 |--------|-------|--------|
@@ -26,5 +20,6 @@ Welcome to my GitHub repository tracking my progress in earning a Python certifi
 ## How to Use This Repo
 Feel free to explore my work, provide feedback, or suggest improvements. 
 
-
+## Certification Link
+https://www.crookshanksacademy.com/challenge-page/pythonforbeginners
 
