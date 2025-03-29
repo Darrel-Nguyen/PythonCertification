@@ -16,10 +16,12 @@ Welcome to my GitHub repository tracking my progress in earning a Python certifi
 ## Progress
 | Module | Topic | Status |
 |--------|-------|--------|
-| 1 | Python Basics | ✅ Completed |
-| 2 | Data Structures | ⏳ In Progress |
-| 3 | Object-Oriented Programming | ⬜ Not Started |
-| 4 | Advanced Topics | ⬜ Not Started |
+| 1 | Getting Started | ✅ Completed |
+| 2 | The Basics | ⏳ In Progress |
+| 3 | The Intermediate | ⬜ Not Started |
+| 4 | The Advanced | ⬜ Not Started |
+| 5 | File Handling | ⬜ Not Started |
+| 6 | Object Oriented Programming | ⬜ Not Started |
 
 ## How to Use This Repo
 Feel free to explore my work, provide feedback, or suggest improvements. 
