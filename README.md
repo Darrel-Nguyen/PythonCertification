@@ -17,8 +17,8 @@ Welcome to my GitHub repository tracking my progress in earning a Python certifi
 | Module | Topic | Status |
 |--------|-------|--------|
 | 1 | Getting Started | ✅ Completed |
-| 2 | The Basics | ⏳ In Progress |
-| 3 | The Intermediate | ⬜ Not Started |
+| 2 | The Basics | ✅ Completed |
+| 3 | The Intermediate | ⏳ In Progress |
 | 4 | The Advanced | ⬜ Not Started |
 | 5 | File Handling | ⬜ Not Started |
 | 6 | Object Oriented Programming | ⬜ Not Started |
